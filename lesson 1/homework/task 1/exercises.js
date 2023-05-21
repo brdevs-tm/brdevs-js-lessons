@@ -59,10 +59,10 @@
 // }
 
 // begin8
-// let R = +prompt("Radiusni kiriting");
-// L = 2 * Math.PI * R;
+// let L = +prompt("Aylana uzunligini kiriting");
+// R = L / (2 * Math.PI);
 // S = Math.PI * R ** 2;
-// window.alert("Aylananing uzunligi = " + L);
+// window.alert("Aylananing radiusi = " + R);
 // window.alert("Aylananing yuzasi = " + S);
 
 // begin9
